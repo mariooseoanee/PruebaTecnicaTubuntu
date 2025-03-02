@@ -34,4 +34,6 @@ Clonarse el repositorio y dentro de cada una de las carpetas (API y FRONT) hay q
 
 Una vez ya ahi, es un CRUD sencillo, escribiendo la tarea en el input grande y pulsando el boton para añadirla. Debajo de este boton, se verán todas las tareas que existen en memoria, para editarlas unicamente se hace click en ellas y es otro input que va guardando lo que escribes. Por último para la elikminación se pulsa la cruz roja de la derecha de la tarjeta.
 
+Para probar la api sola, desde tu navegador o Postman con la url: http://localhost:3000/api/tareas
+
 
