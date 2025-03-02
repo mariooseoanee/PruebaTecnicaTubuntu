@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/config/config.ts","./src/controllers/tarea.controller.ts","./src/models/tarea.model.ts","./src/routes/tarea.routes.ts"],"version":"5.8.2"}
